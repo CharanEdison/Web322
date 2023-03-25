@@ -1,0 +1,15 @@
+body {
+  background-color:rgb(219, 249, 250)}
+
+h2 {color: blue(67, 3, 80);
+  font-family: 'Corben', Georgia, Times, serif;
+  text-align: center;
+  text-shadow:darkblue;
+  }
+h3{
+  color: rgb(209, 17, 56);
+  border-color: lawngreen;
+}
+
+p, li {color:black;
+  font-family: 'Nobile', Helvetica, Arial, sans-serif;}
